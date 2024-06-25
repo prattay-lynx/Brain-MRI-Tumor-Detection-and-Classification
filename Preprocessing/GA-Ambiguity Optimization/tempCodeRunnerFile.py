@@ -1,0 +1,1 @@
+best_parameters = genetic_algorithm(initial_population, generations, mutation_rate, input_image, min_range, max_range)
